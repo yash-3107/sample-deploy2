@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+.questions{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    border:1px solid rgb(120, 212, 252);
+    width:90%;
+    padding:20px;
+    border-radius: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+.nav_buttons{
+    display: flex;
+    width:100%;
+    justify-content: center;
+}
+button{
+    margin-right: 10px;
+}
+.head{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:100%;
+}
